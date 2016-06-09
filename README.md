@@ -49,6 +49,10 @@ A curated list of awesome combinator parsers.
 * [uu-parsinglib](http://foswiki.cs.uu.nl/foswiki/HUT/ParserCombinators)
 * [attoparsec](https://github.com/bos/attoparsec)
 
+## Idris
+* [lightyear](https://github.com/ziman/lightyear)
+* [idris-monadic-parser](https://github.com/tauli/idris-monadic-parser)
+
 ## Java
 * [jparsec](https://github.com/jparsec/jparsec)
 * [parsecj](https://github.com/jon-hanson/parsecj)
