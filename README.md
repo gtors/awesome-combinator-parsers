@@ -47,6 +47,7 @@ A curated list of awesome combinator parsers.
 ## Haskell
 * [parsec](https://github.com/aslatter/parsec)
 * [uu-parsinglib](http://foswiki.cs.uu.nl/foswiki/HUT/ParserCombinators)
+* [attoparsec](https://github.com/bos/attoparsec)
 
 ## Java
 * [jparsec](https://github.com/jparsec/jparsec)
