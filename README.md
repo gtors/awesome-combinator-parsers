@@ -11,6 +11,11 @@ A curated list of awesome combinator parsers.
 * [hammer](https://github.com/abiggerhammer/hammer)
 * [parsnip](https://sourceforge.net/projects/parsnip-parser)
 
+## Clojure
+* [kern](https://github.com/blancas/kern)
+* [parsatron](https://github.com/youngnh/parsatron)
+* [parse-ez](https://github.com/protoflex/parse-ez)
+
 ## C# #
 * [parseq](https://github.com/linerlock/parseq)
 
