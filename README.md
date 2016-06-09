@@ -10,11 +10,13 @@ A curated list of awesome combinator parsers.
 * [mpc](https://github.com/orangeduck/mpc)
 * [hammer](https://github.com/abiggerhammer/hammer)
 * [parsnip](https://sourceforge.net/projects/parsnip-parser)
+* [Boost Spirit](https://github.com/boostorg/spirit)
 
 ## Clojure
 * [kern](https://github.com/blancas/kern)
 * [parsatron](https://github.com/youngnh/parsatron)
 * [parse-ez](https://github.com/protoflex/parse-ez)
+* [zetta-parser](https://github.com/van-clj/zetta-parser)
 
 ## C# #
 * [parseq](https://github.com/linerlock/parseq)
@@ -65,6 +67,10 @@ A curated list of awesome combinator parsers.
 * [opal](https://github.com/pyrocat101/opal)
 * [mparser](https://github.com/cakeplus/mparser)
 * [DeCaP](https://lama.univ-savoie.fr/decap)
+
+## Perl
+* [Perl-Parser-Combinators](https://github.com/wimvanderbauwhede/Perl-Parser-Combinators)
+* [Wraith](https://github.com/Akvelog/Wraith)
 
 ## Python
 * [funcparserlib](https://github.com/vlasovskikh/funcparserlib)
